@@ -62,10 +62,10 @@ async function run() {
 
 <img src="${user.avatar_url}" width="120" />
 
-Name: ${user.name || '-'} 
-Bio: ${user.bio || '-'}
-Location: ${user.location || '-'}
-Compoany: ${user.company || '-'}
+Name: ${user.name || '-'}  \n
+Bio: ${user.bio || '-'} \n
+Location: ${user.location || '-'} \n
+Compoany: ${user.company || '-'} \n
 
 ## Followers <kbd>${followers.length}</kbd>
 
