@@ -10,10 +10,14 @@
 
 <img src="https://avatars.githubusercontent.com/u/50883320?v=4" width="120" />
 
-Name: Manthan Ank 
-Bio: Front End Developer | Angular | JavaScript | Node.js | MongoDB
-Location: Karnataka
-Compoany: -
+Name: Manthan Ank  
+
+Bio: Front End Developer | Angular | JavaScript | Node.js | MongoDB 
+
+Location: Karnataka 
+
+Compoany: - 
+
 
 ## Followers <kbd>19</kbd>
 
