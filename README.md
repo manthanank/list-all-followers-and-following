@@ -164,7 +164,7 @@ Compoany: -
   </tr>
 </table>
 
-## Following <kbd>87</kbd>
+## Following <kbd>86</kbd>
 
 <table>
   <tr>
@@ -766,20 +766,12 @@ Compoany: -
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/priya42bagde">
-        <img src="https://avatars.githubusercontent.com/u/84898186?v=4" width="50" />
-        <br />
-        priya42bagde
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/developerhafizur">
         <img src="https://avatars.githubusercontent.com/u/86799886?v=4" width="50" />
         <br />
         developerhafizur
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/harshitvee">
         <img src="https://avatars.githubusercontent.com/u/87263170?v=4" width="50" />
@@ -787,12 +779,15 @@ Compoany: -
         harshitvee
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GitHub-dev12345">
         <img src="https://avatars.githubusercontent.com/u/92583680?v=4" width="50" />
         <br />
         GitHub-dev12345
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
