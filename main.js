@@ -50,7 +50,7 @@ async function run() {
       return '-';
     }
 
-    const middle = `## Details
+    const middle = `
 
 <img src="${user.avatar_url}" width="120" />
 
