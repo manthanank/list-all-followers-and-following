@@ -1,4 +1,4 @@
-# 😳 List All Followers And Following
+# List All Followers And Following
 
  Easy view and filter all follows and following. Auto update by GitHub Action.
 
@@ -16,7 +16,7 @@ Bio: Front End Developer | Angular | JavaScript | Node.js | MongoDB
 
 Location: Karnataka 
 
-Compoany: - 
+Company: - 
 
 
 ## Followers <kbd>22</kbd>
