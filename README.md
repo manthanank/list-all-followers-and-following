@@ -3,7 +3,7 @@
 - [How to use in my own project?](https://github.com/xrkffgg/list-all-followers-and-following/issues/1)
 - If you have any questions, please open a new [issue](https://github.com/xrkffgg/list-all-followers-and-following/issues)
 
-## manthanank
+## Username: manthanank
 
 <img src="https://avatars.githubusercontent.com/u/50883320?v=4" width="120" />
 
