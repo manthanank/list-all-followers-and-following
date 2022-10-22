@@ -1,11 +1,8 @@
-# List of All Followers And Following
-
-- [How to use in my own project?](https://github.com/xrkffgg/list-all-followers-and-following/issues/1)
-- If you have any questions, please open a new [issue](https://github.com/xrkffgg/list-all-followers-and-following/issues)
-
-## Username: manthanank
+# List of All Followers And Following## Details
 
 <img src="https://avatars.githubusercontent.com/u/50883320?v=4" width="120" />
+
+Username: manthanank 
 
 Name: Manthan Ank  
 
@@ -358,9 +355,9 @@ Company: -
   </tr>
 </table>
 
-## LICENSE
-
-[MIT](https://github.com/xrkffgg/list-all-followers-and-following/blob/main/LICENSE)
-
-Copyright (c) 2021-present [xrkffgg](https://github.com/xrkffgg)
+## Credit
+ [xrkffgg](https://github.com/xrkffgg)
+ 
+- [How to use in my own project?](https://github.com/xrkffgg/list-all-followers-and-following/issues/1)
+- If you have any questions, please open a new [issue](https://github.com/xrkffgg/list-all-followers-and-following/issues)
 
