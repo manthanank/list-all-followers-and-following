@@ -41,7 +41,7 @@ async function run() {
     followers.reverse();
     const following = await queryFollowing();
 
-    const before = `# List of All Followers And Following`;
+    const before = `# List of All Followers And Following `;
 
     function dealBlog(blog) {
       if (blog) {
