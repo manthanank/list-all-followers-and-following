@@ -41,12 +41,7 @@ async function run() {
     followers.reverse();
     const following = await queryFollowing();
 
-    const before = `# List of All Followers And Following
-
-- [How to use in my own project?](https://github.com/xrkffgg/list-all-followers-and-following/issues/1)
-- If you have any questions, please open a new [issue](https://github.com/xrkffgg/list-all-followers-and-following/issues)
-
-`;
+    const before = `# List of All Followers And Following`;
 
     function dealBlog(blog) {
       if (blog) {
@@ -55,10 +50,11 @@ async function run() {
       return '-';
     }
 
-    const middle = `## Username: ${username}
+    const middle = `## Details
 
 <img src="${user.avatar_url}" width="120" />
 
+Username: ${username || '-'} \n
 Name: ${user.name || '-'}  \n
 Bio: ${user.bio || '-'} \n
 Location: ${user.location || '-'} \n
@@ -77,11 +73,11 @@ Company: ${user.company || '-'} \n
 </table>
 
 `
-    const end = `## LICENSE
-
-[MIT](https://github.com/xrkffgg/list-all-followers-and-following/blob/main/LICENSE)
-
-Copyright (c) 2021-present [xrkffgg](https://github.com/xrkffgg)
+ const end = `## Credit
+ [xrkffgg](https://github.com/xrkffgg)
+ 
+- [How to use in my own project?](https://github.com/xrkffgg/list-all-followers-and-following/issues/1)
+- If you have any questions, please open a new [issue](https://github.com/xrkffgg/list-all-followers-and-following/issues)
 
 `
     writeFileSync('./README.md', before + middle + end);
