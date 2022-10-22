@@ -1,4 +1,4 @@
-# List of All Followers And Following## Details
+# List of All Followers And Following ## Details
 
 <img src="https://avatars.githubusercontent.com/u/50883320?v=4" width="120" />
 
