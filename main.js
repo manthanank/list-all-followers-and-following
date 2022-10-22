@@ -52,13 +52,13 @@ async function run() {
 
     const middle = `
 
-<img src="${user.avatar_url}" width="120" />
+//<img src="${user.avatar_url}" width="120" />
 
-Username: ${username || '-'} \n
-Name: ${user.name || '-'}  \n
-Bio: ${user.bio || '-'} \n
-Location: ${user.location || '-'} \n
-Company: ${user.company || '-'} \n
+//Username: ${username || '-'} \n
+//Name: ${user.name || '-'}  \n
+//Bio: ${user.bio || '-'} \n
+//Location: ${user.location || '-'} \n
+//Company: ${user.company || '-'} \n
 
 ## Followers <kbd>${followers.length}</kbd>
 
