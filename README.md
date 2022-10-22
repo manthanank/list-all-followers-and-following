@@ -1,16 +1,16 @@
 # List of All Followers And Following 
 
-<img src="https://avatars.githubusercontent.com/u/50883320?v=4" width="120" />
+//<img src="https://avatars.githubusercontent.com/u/50883320?v=4" width="120" />
 
-Username: manthanank 
+//Username: manthanank 
 
-Name: Manthan Ank  
+//Name: Manthan Ank  
 
-Bio: Front End Developer | Angular | JavaScript | Node.js | MongoDB 
+//Bio: Front End Developer | Angular | JavaScript | Node.js | MongoDB 
 
-Location: Karnataka 
+//Location: Karnataka 
 
-Company: - 
+//Company: - 
 
 
 ## Followers <kbd>22</kbd>
