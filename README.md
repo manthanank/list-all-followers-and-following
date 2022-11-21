@@ -1,6 +1,6 @@
 # List of All Followers And Following 
 
-## Followers <kbd>22</kbd>
+## Followers <kbd>23</kbd>
 
 <table>
   <tr>
@@ -41,6 +41,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/naveen42266">
+        <img src="https://avatars.githubusercontent.com/u/99822733?v=4" width="50" />
+        <br />
+        naveen42266
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/cumsoft">
         <img src="https://avatars.githubusercontent.com/u/97250816?v=4" width="50" />
         <br />
@@ -68,6 +75,7 @@
         000deepak
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/HadzhieV777">
         <img src="https://avatars.githubusercontent.com/u/88735655?v=4" width="50" />
@@ -75,7 +83,6 @@
         HadzhieV777
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shreyasri258">
         <img src="https://avatars.githubusercontent.com/u/84087589?v=4" width="50" />
@@ -104,6 +111,7 @@
         peter-kimanzi
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gtrujilloca">
         <img src="https://avatars.githubusercontent.com/u/70419615?v=4" width="50" />
@@ -111,7 +119,6 @@
         gtrujilloca
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/timmy-coder">
         <img src="https://avatars.githubusercontent.com/u/69997576?v=4" width="50" />
@@ -140,6 +147,7 @@
         chinthasaibabu
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/marcelo3macedo">
         <img src="https://avatars.githubusercontent.com/u/12199353?v=4" width="50" />
@@ -147,7 +155,6 @@
         marcelo3macedo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kagklis">
         <img src="https://avatars.githubusercontent.com/u/10770280?v=4" width="50" />
@@ -161,8 +168,6 @@
         <br />
         gamemann
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
