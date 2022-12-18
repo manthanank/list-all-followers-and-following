@@ -181,7 +181,7 @@
   </tr>
 </table>
 
-## Following <kbd>23</kbd>
+## Following <kbd>24</kbd>
 
 <table>
   <tr>
@@ -229,6 +229,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/learning-zone">
+        <img src="https://avatars.githubusercontent.com/u/10107543?v=4" width="50" />
+        <br />
+        learning-zone
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Ebazhanov">
         <img src="https://avatars.githubusercontent.com/u/13170022?v=4" width="50" />
         <br />
@@ -249,6 +256,7 @@
         piyush97
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DenverCoder1">
         <img src="https://avatars.githubusercontent.com/u/20955511?v=4" width="50" />
@@ -256,7 +264,6 @@
         DenverCoder1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sonnysangha">
         <img src="https://avatars.githubusercontent.com/u/24712956?v=4" width="50" />
@@ -285,6 +292,7 @@
         CodAffection
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nishant-666">
         <img src="https://avatars.githubusercontent.com/u/33790075?v=4" width="50" />
@@ -292,7 +300,6 @@
         nishant-666
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arctutorials">
         <img src="https://avatars.githubusercontent.com/u/36338296?v=4" width="50" />
@@ -321,6 +328,7 @@
         bezkoder
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CleverProgrammers">
         <img src="https://avatars.githubusercontent.com/u/60327839?v=4" width="50" />
@@ -328,7 +336,6 @@
         CleverProgrammers
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/saviomartin">
         <img src="https://avatars.githubusercontent.com/u/61895712?v=4" width="50" />
@@ -349,8 +356,6 @@
         <br />
         Nishant-Bhosale
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
