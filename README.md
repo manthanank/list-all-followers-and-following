@@ -1,6 +1,6 @@
 # List of All Followers And Following 
 
-## Followers <kbd>23</kbd>
+## Followers <kbd>24</kbd>
 
 <table>
   <tr>
@@ -98,12 +98,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Paulabad-BigData">
+        <img src="https://avatars.githubusercontent.com/u/77560847?v=4" width="50" />
+        <br />
+        Paulabad-BigData
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/albertasetena">
         <img src="https://avatars.githubusercontent.com/u/73171653?v=4" width="50" />
         <br />
         albertasetena
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="50" />
@@ -111,7 +119,6 @@
         peter-kimanzi
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gtrujilloca">
         <img src="https://avatars.githubusercontent.com/u/70419615?v=4" width="50" />
@@ -140,6 +147,7 @@
         SWxEng
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chinthasaibabu">
         <img src="https://avatars.githubusercontent.com/u/49228829?v=4" width="50" />
@@ -147,7 +155,6 @@
         chinthasaibabu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/marcelo3macedo">
         <img src="https://avatars.githubusercontent.com/u/12199353?v=4" width="50" />
@@ -168,8 +175,6 @@
         <br />
         gamemann
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
